@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b49de1b9-49a1-4650-93ad-23d77542f894" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/FourOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Greater_SmallerThan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Greater_SmallerThan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Reading_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/day02/ShapesWithStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/day02/ShapesWithStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/day03/ExtraPractices.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/day03/ExtraPractices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/day02/ShapesWithStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/day02/ShapesWithStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/day03/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/day03/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProgramming/src/lectures/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaProgramming/src/lectures/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/MultiDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/SplitStringToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/SplitStringToArray2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Grade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reading_Numbers">
-    <configuration name="FourOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.FourOperations" />
+  <component name="RunManager" selected="Application.Loops1">
+    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Array2" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Grade" />
+    <configuration name="Loops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Loops1" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greater_SmallerThan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Greater_SmallerThan" />
+    <configuration name="MultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.MultiDimensionalArrays" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greater_SmallerThan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Greater_SmallerThan2" />
+    <configuration name="SplitStringToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.SplitStringToArray" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reading_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Reading_Numbers" />
+    <configuration name="SplitStringToArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.SplitStringToArray2" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reading_Numbers" />
-        <item itemvalue="Application.FourOperations" />
-        <item itemvalue="Application.Greater_SmallerThan2" />
-        <item itemvalue="Application.Greater_SmallerThan" />
-        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.Loops1" />
+        <item itemvalue="Application.MultiDimensionalArrays" />
+        <item itemvalue="Application.Array2" />
+        <item itemvalue="Application.SplitStringToArray2" />
+        <item itemvalue="Application.SplitStringToArray" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +136,7 @@
       <workItem from="1662558947637" duration="123000" />
       <workItem from="1662583183435" duration="2099000" />
       <workItem from="1662586051276" duration="7373000" />
+      <workItem from="1662649828556" duration="10754000" />
     </task>
     <servers />
   </component>
