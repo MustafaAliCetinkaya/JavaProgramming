@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b49de1b9-49a1-4650-93ad-23d77542f894" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/MultiDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/SplitStringToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/SplitStringToArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loop9_Squareroot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops10_TheMultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops13_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops5_BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops6_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops7_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Loops8_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Methods3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Methods4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicsReplit/WrapperClasses_StringtoInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +60,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loops1">
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Array2" />
+  <component name="RunManager" selected="Application.Methods4">
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Loops1" />
+    <configuration name="Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods2" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.MultiDimensionalArrays" />
+    <configuration name="Methods3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods3" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitStringToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.SplitStringToArray" />
+    <configuration name="Methods4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods4" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitStringToArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.SplitStringToArray2" />
+    <configuration name="WrapperClasses_StringtoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicsReplit.WrapperClasses_StringtoInteger" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loops1" />
-        <item itemvalue="Application.MultiDimensionalArrays" />
-        <item itemvalue="Application.Array2" />
-        <item itemvalue="Application.SplitStringToArray2" />
-        <item itemvalue="Application.SplitStringToArray" />
+        <item itemvalue="Application.Methods4" />
+        <item itemvalue="Application.Methods3" />
+        <item itemvalue="Application.Methods2" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.WrapperClasses_StringtoInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +150,9 @@
       <workItem from="1662583183435" duration="2099000" />
       <workItem from="1662586051276" duration="7373000" />
       <workItem from="1662649828556" duration="10754000" />
+      <workItem from="1662820187415" duration="8998000" />
+      <workItem from="1662871921737" duration="5192000" />
+      <workItem from="1662917335867" duration="14774000" />
     </task>
     <servers />
   </component>
