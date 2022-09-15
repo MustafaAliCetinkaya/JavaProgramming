@@ -5,7 +5,7 @@ public class Methods2 {
         addition();//Metodu parantezinden anladı aşağı atladı ve metot içinin gereğini yaptı.
         addition();//Parantezin içi boş olanlar PARAMETRESİZ metottur.
         multiplication(56.12,50.09);
-        multiplication(24,63);
+        multiplication(24,63);//Buranın tek başına değeri yoktur. Void dir. Buranın değeri aşağıdaki Sout ile yazdırılır.
 
     }//Oluşturulan metotlar main dışına yazılır.
 
