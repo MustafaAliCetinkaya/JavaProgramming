@@ -1,4 +1,4 @@
-package oblectOrientedProgramming1;
+package oblectOrientedProgramming.oblectOrientedProgramming1;
 
 public class Student2 {
 

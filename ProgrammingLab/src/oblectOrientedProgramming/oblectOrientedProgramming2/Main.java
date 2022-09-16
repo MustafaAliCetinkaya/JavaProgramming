@@ -1,4 +1,4 @@
-package oblectOrientedProgramming2;
+package oblectOrientedProgramming.oblectOrientedProgramming2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oblectOrientedProgramming1;
+package oblectOrientedProgramming.oblectOrientedProgramming1;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Main {
         System.out.println("object2 education information = " + object2.schoolName+"\n");
         System.out.println("object1 gender information = " + object1.gender+"\n");
 
-        object1.likes();//Nesnelere ait class da bulunan metotlar da çağrılabilir.
+        object1.likes();//Nesnelere ait class da bulunan metotlar da çağrılabilir.Bu yöntemle tüm bilgiler tek seferde de yazdırılabilir.
         object1.dislikes();
     }
 }

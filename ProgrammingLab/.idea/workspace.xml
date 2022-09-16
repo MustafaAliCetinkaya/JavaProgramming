@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49de1b9-49a1-4650-93ad-23d77542f894" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicsReplit/Methods10_HappyBirthDay.java" afterDir="false" />
+    <list default="true" id="b49de1b9-49a1-4650-93ad-23d77542f894" name="Changes" comment="New projects are created">
+      <change afterPath="$PROJECT_DIR$/src/constructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming5/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods7Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods7Factorials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basicsReplit/Methods9_InMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/Methods9_InMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingLab/basicsReplit/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingLab/basicsReplit/TypeCasting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basicsReplit/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicsReplit/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming2/StudentRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming2/StudentRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming1/Student1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming1/Student2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming1/Student3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming1/Student3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming2/StudentRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming2/StudentRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oblectOrientedProgramming3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oblectOrientedProgramming/oblectOrientedProgramming3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,39 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TypeCasting">
+  <component name="RunManager" selected="Application.oblectOrientedProgramming.oblectOrientedProgramming1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming1.Main" />
+      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming.oblectOrientedProgramming5.Main" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oblectOrientedProgramming1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methods10_HappyBirthDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods10_HappyBirthDay" />
-      <module name="ProgrammingLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicsReplit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methods9_InMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicsReplit.Methods9_InMethods" />
-      <module name="ProgrammingLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicsReplit.*" />
+          <option name="PATTERN" value="oblectOrientedProgramming.oblectOrientedProgramming5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oblectOrientedProgramming2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming2.Main" />
+    <configuration name="oblectOrientedProgramming.oblectOrientedProgramming1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming.oblectOrientedProgramming1.Main" />
       <module name="ProgrammingLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oblectOrientedProgramming2.*" />
+          <option name="PATTERN" value="oblectOrientedProgramming.oblectOrientedProgramming1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oblectOrientedProgramming.oblectOrientedProgramming3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming.oblectOrientedProgramming3.Main" />
+      <module name="ProgrammingLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oblectOrientedProgramming.oblectOrientedProgramming3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oblectOrientedProgramming.oblectOrientedProgramming4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oblectOrientedProgramming.oblectOrientedProgramming4.Main" />
+      <module name="ProgrammingLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oblectOrientedProgramming.oblectOrientedProgramming4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.Methods10_HappyBirthDay" />
-        <item itemvalue="Application.oblectOrientedProgramming2.Main" />
+        <item itemvalue="Application.oblectOrientedProgramming.oblectOrientedProgramming1.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Methods9_InMethods" />
+        <item itemvalue="Application.oblectOrientedProgramming.oblectOrientedProgramming4.Main" />
+        <item itemvalue="Application.oblectOrientedProgramming.oblectOrientedProgramming3.Main" />
+        <item itemvalue="Application.TypeCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -153,8 +153,17 @@
       <workItem from="1662871921737" duration="5192000" />
       <workItem from="1662917335867" duration="23001000" />
       <workItem from="1663073590459" duration="6890000" />
-      <workItem from="1663234832870" duration="5353000" />
+      <workItem from="1663234832870" duration="14637000" />
+      <workItem from="1663308372719" duration="2046000" />
     </task>
+    <task id="LOCAL-00001" summary="New projects are created">
+      <created>1663245668783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663245668785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New projects are created" />
+    <option name="LAST_COMMIT_MESSAGE" value="New projects are created" />
   </component>
 </project>

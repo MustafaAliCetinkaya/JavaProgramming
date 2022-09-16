@@ -17,5 +17,15 @@ public class TypeCasting {
         number3= (double) number4;//long türünü double ye çevirdik. Bu otomatik de çevrilir. Önüne double yazmaya gerek yok aslında
         System.err.println("\n"+number3);
 
+        double number5=75.9;
+        int number6=(int)number5;//Otomatik dönüşmez. Explicitly yani elle girerek yapmamız gerekir.
+        byte number7=5;
+        number7=(byte)number5;
+        System.err.println("\n"+number6);
+        System.err.println("\n"+number7);
+
+        System.out.println((int) 96.87/12);//ondalık olanı casting yaparak int e çevirdik ve sonuç tamsayı çıktı
+
+
     }
 }
