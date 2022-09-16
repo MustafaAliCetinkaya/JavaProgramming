@@ -1,7 +1,7 @@
 package oblectOrientedProgramming.oblectOrientedProgramming5;
 
 public class CarFactory {
-        String trademark;//İçi boş bir değişken tanımlarken eşittir kullanmöıyoruz. Sadece noktalı virgül koy geç
+        String trademark;//İçi boş bir değişken tanımlarken eşittir kullanmıyoruz. Sadece noktalı virgül koy geç
         String typeOfGear;
         int year;
         String color;
