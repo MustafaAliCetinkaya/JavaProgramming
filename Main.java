@@ -1,18 +1,14 @@
-import java.util.Scanner;
+import java.util.*;
+
 class Main {
-  
-  public static void sign(int n){
-    //WRITE YOUR CODE BELOW
-String result=(n<0)?"negative":(n==0)?"zero":"positive";
-    System.out.println(result);
-    
-  }
-  
   public static void main(String[] args) {
-    Scanner in = new Scanner(System.in);
-    int n = in.nextInt();
-    
-    sign(n);
-    
+    Scanner input=new Scanner (System.in);
+    System.out.println("Enter seconds:");
+   int inputSeconds=input.nextInt();
+    int hours, minutes, seconds;
+    seconds=inputSeconds%60;
+    minutes=(inputSeconds/60)%60;
+    hours=inputSeconds/(60*60);
+    System.out.println(hours+" hours, "+minutes+" minutes, and "+seconds+" seconds");    
   }
 }
