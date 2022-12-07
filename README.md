@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MustafaAliCetinkaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mustafa Ali Çetinkaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaAliCetinkaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 # The world’s most popular modern development platform: Oracle Java
 
